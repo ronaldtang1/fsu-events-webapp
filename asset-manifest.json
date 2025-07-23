@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fsu-events-webapp/static/css/main.950a838a.css",
+    "main.js": "/fsu-events-webapp/static/js/main.bb07c37f.js",
+    "static/js/453.8643461a.chunk.js": "/fsu-events-webapp/static/js/453.8643461a.chunk.js",
+    "index.html": "/fsu-events-webapp/index.html",
+    "main.950a838a.css.map": "/fsu-events-webapp/static/css/main.950a838a.css.map",
+    "main.bb07c37f.js.map": "/fsu-events-webapp/static/js/main.bb07c37f.js.map",
+    "453.8643461a.chunk.js.map": "/fsu-events-webapp/static/js/453.8643461a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.950a838a.css",
+    "static/js/main.bb07c37f.js"
+  ]
+}
