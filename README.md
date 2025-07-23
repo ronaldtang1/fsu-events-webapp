@@ -26,5 +26,3 @@ The goal was to build a polished, easy-to-use app **without involving authentica
 - JavaScript (ES6+)
 - CSS (custom styling using Google Fonts)
 - GitHub Pages (for deployment)
-
-## 📂 Folder Structure
